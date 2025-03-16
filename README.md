@@ -12,3 +12,4 @@ Description –
 Insights revealed that women aged 30-49 years from Maharashtra, Karnataka, and Uttar Pradesh are a primary customer segment. Targeted ads, offers, and coupons on platforms like Amazon, Flipkart, and Myntra can help boost sales.
 
 ![Dashboard]([image-path](https://github.com/RaviKumarGowtham/OneStop-Store-Annual-Report-2025/blob/Branch/OneStop%20Store%20Annual%20Report%202024.png))
+
