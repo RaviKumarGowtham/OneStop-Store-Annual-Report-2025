@@ -10,3 +10,5 @@ Description –
 •	Identified top-selling products, highest-performing states, and customer demographics, segmented by gender and age.
 •	Developed an interactive dashboard using Pivot Charts with slicers for filtering data by different parameters.
 Insights revealed that women aged 30-49 years from Maharashtra, Karnataka, and Uttar Pradesh are a primary customer segment. Targeted ads, offers, and coupons on platforms like Amazon, Flipkart, and Myntra can help boost sales.
+
+![Dashboard]([image-path]())
